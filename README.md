@@ -177,3 +177,5 @@ This project is private and unlicensed for redistribution unless otherwise state
 **Girish Lade** — Founder & Engineer
 
 - GitHub: [@girishlade111](https://github.com/girishlade111)
+
+Built by Girish Lade — [ladestack.in](https://ladestack.in)
